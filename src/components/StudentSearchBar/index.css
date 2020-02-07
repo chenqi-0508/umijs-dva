@@ -1,0 +1,16 @@
+.searchBar {
+    width: 100%;
+    padding: 10px 15px;
+}
+
+.keyWord {
+    width: 200px;
+    margin-right: 5px;
+}
+.sex input {
+    width: 20px;
+}
+
+.sex span {
+    font-size: 14px;
+}

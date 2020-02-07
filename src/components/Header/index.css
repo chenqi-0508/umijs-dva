@@ -1,0 +1,18 @@
+.header {
+    color: #fff !important;
+}
+
+.title {
+    color: inherit !important;
+    line-height: 64px !important;
+}
+
+.header span {
+    margin: 0 10px;
+}
+
+.header .btn {
+    color: #008c8c;
+    width: 2em;
+    height: 2em;
+}
